@@ -23,7 +23,7 @@
 
 ### 保存脚本
 
-由于提示块语法不通，在`typroa-theme\sprict`中提供了转换脚本，可以自动将语法转换为Material-Mkdocs中的提示块语法。
+由于提示块语法不同，在`typroa-theme\sprict`中提供了转换脚本，可以自动将语法转换为Material-Mkdocs中的提示块语法。
 
 #### 使用方法
 
